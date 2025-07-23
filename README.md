@@ -1,7 +1,7 @@
 # Irisflower
 
 This project demonstrates how to apply the k-Nearest Neighbors (KNN) algorithm 
-to the classic Iris flower dataset for multi-class classification. 
+to the Iris flower dataset for multi-class classification. 
 
 Data Loading-Read the iris.csv from pandas
 Note-Place this file in the directory same as your .py file
