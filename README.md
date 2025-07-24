@@ -20,6 +20,13 @@ Visualisation-
 By using matplotlib shows the plot,
 Using accuracy score and value of k
 
+Suggestions-
+Feel free to enhance the model by:
+Trying different classification algorithms (e.g., Decision Trees, SVM),
+Tuning hyperparameters of KNN,
+Adding or engineering new features,
+Using cross-validation for better evaluation.
+
 
 
 
